@@ -17,6 +17,7 @@ This works with macOS High Sierra (10.13), Sierra (10.12), OS X El Capitan (10.1
 
 ### Developer Tools
 - Xcode: https://developer.apple.com/xcode/
+- MAMP (Your local web development solution): https://www.mamp.info/en/
 
 ### Fileshare
 - Transmit: https://panic.com/transmit/
