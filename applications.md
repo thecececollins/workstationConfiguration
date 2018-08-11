@@ -10,3 +10,8 @@ This works with macOS High Sierra (10.13), Sierra (10.12), OS X El Capitan (10.1
 
 ### Documentation Tools
 - Monosnap: https://www.monosnap.com/en/page/download/mac
+
+
+### Git Tools
+- GitHub Desktop
+- Tower
