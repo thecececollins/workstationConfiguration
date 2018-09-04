@@ -1,4 +1,6 @@
 ## Setting up a Dev Machine
+_This configuration was primarily used during my time as System Administrator for a digital advertising agencies Dev team but can be referrenced for other means._
+
 
 **Create remote connectivity from a PC:**
 Install openSSH Server onto your linux machine
@@ -78,7 +80,7 @@ _Where the exact location is dependent on where Java 1.7 lives on your local mac
 
 
 **Install mySQL:**
-- Prepare for mySQl
+- Prepare for mySQL
 	- `hostname`
 	- `hostname -f`
 	- `sudo apt-get update`
