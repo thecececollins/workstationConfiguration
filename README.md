@@ -1,2 +1,2 @@
 # workstationConfiguration
-💻 My preferred workstation configurations (macOS)
+💻 My preferred workstation configurations (macOS & Ubuntu)
